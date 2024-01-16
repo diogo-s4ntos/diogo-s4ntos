@@ -27,10 +27,9 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMeha&hide=ruby,shell&layout=compact&theme=dark)](https://github.com/RafaelMeha?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-s4ntos&hide=ruby,shell&layout=compact&theme=dark)](https://github.com/RafaelMeha?tab=repositories)
 
 ##
 
 #### How to talk with me:
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/diogo-santos-5b300a2a0/)
-[<img alt="" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black"/>](mailto:rafaelmeha5@gmail.com)
