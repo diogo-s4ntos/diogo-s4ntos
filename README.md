@@ -10,7 +10,7 @@
 
 ##
 
-![Diogo Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=diogo-s4ntos&show_icons=true&theme=dark&count_private=false)
+![Diogo Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=diogo-s4ntos_icons=true&theme=dark&count_private=false)
 
 ##
 
