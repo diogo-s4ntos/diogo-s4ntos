@@ -5,7 +5,7 @@
 
 - 🏠  I'm from Lisbon, Portugal
 - 💻 Passionate about Technology
-- 🧠 Software Development Student at IPS.
+- 🧠 Web Development Student at IPS.
 - 🏦 I currently work as an Intern at CGI.
 
 ##
